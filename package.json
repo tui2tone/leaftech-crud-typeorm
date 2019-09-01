@@ -1,7 +1,7 @@
 {
   "name": "leaftech-crud-typeorm",
   "description": "NestJs CRUD for RESTful APIs - TypeORM",
-  "version": "4.2.1",
+  "version": "5.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
